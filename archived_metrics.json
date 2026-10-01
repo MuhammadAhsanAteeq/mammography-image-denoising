@@ -1,0 +1,23 @@
+{
+  "status": "archived_not_rerun",
+  "denoising": {
+    "psnr_db": 18.831350149874776,
+    "mse": 0.013087749832030362,
+    "n_test_images": 10930,
+    "source_cells_zero_based": [
+      9,
+      32,
+      34
+    ]
+  },
+  "clean_reconstruction": {
+    "psnr_db": 31.630733212845243,
+    "mse": 0.00068695245307357,
+    "source_cells_zero_based": [
+      41,
+      43
+    ]
+  },
+  "observed_train_count": 43776,
+  "note": "Patient split membership and evaluation pairing not independently verifiable without data and checkpoints."
+}

@@ -1,0 +1,19 @@
+{
+  "original_files": [
+    {
+      "filename": "Msc+Research+Project+%28Code+File%29.ipynb",
+      "sha256": "36e4f5a83176e2d3a14f11c3734fb95f79ea0b66eecca33c2c79363c1764d5bc"
+    },
+    {
+      "filename": "MSc+Research+Project+Report+.pdf",
+      "sha256": "c4071b2eb258da07e90a974aa27969dd0a74db6e6ba7c62c74fe018179f913c7"
+    }
+  ],
+  "archive_transformations": [
+    "Student ID removed",
+    "Local Windows paths replaced by relative data paths",
+    "Training logs and sample mammograms removed",
+    "Scalar metrics and aggregate metric figures retained",
+    "Original logic retained, including known execution defects"
+  ]
+}
